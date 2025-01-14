@@ -46,16 +46,17 @@ We released our MATLAB codes.
 <br>
 
 ## Overview
-### Whole field-of-view reconstruction
-We show the stitch-free whole field-of-view reconstruction of pathology slides of rat colon tissue. a1–a3) Raw images for red, green, and blue illuminations. b) Full-FOV reconstruction according to ePIE and WL-FPM. c1,c2) Comparison of local details of ePIE and WL-FPM reconstruction methods (orange box). c3–c5) Comparison of local details between the original image, ePIE, and WL-FPM reconstruction methods (green boxes). d1,d2) The stitched imaging and WL-FPM reconstruction for the zoomed-in region f3 (red box) in b)
-<div align="center">
-<img src="https://github.com/ShuheZhang-MUMC/Wavelet-Forward-FPM/blob/main/resources/samples.png" width = "760" alt="" align=center />
-</div><be>
 
 ### Large aberration correction
 The WL-FPM recovers large aberrations without prior knowledge of the aberrations. 
 <div align="center">
 <img src="https://github.com/ShuheZhang-MUMC/Wavelet-Forward-FPM/blob/main/resources/test.gif" width = "560" alt="" align=center />
+</div><br>
+
+### Whole field-of-view reconstruction
+We show the stitch-free whole field-of-view reconstruction of pathology slides of rat colon tissue. a1–a3) Raw images for red, green, and blue illuminations. b) Full-FOV reconstruction according to ePIE and WL-FPM. c1,c2) Comparison of local details of ePIE and WL-FPM reconstruction methods (orange box). c3–c5) Comparison of local details between the original image, ePIE, and WL-FPM reconstruction methods (green boxes). d1,d2) The stitched imaging and WL-FPM reconstruction for the zoomed-in region f3 (red box) in b)
+<div align="center">
+<img src="https://github.com/ShuheZhang-MUMC/Wavelet-Forward-FPM/blob/main/resources/samples.png" width = "760" alt="" align=center />
 </div><br>
 
 ## Citation
