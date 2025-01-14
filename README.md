@@ -38,6 +38,9 @@ We show the stitch-free whole field-of-view reconstruction of pathology slides o
 <img src="https://github.com/ShuheZhang-MUMC/Wavelet-Forward-FPM/blob/main/resources/samples.png" width = "760" alt="" align=center />
 </div><br>
 
+<div align="center">
+<img src="https://github.com/ShuheZhang-MUMC/Wavelet-Forward-FPM/blob/main/resources/test.gif" width = "660" alt="" align=center />
+</div><br>
 
 ## Citation
 > @article{WaveletFPM, <br>
