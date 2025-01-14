@@ -33,3 +33,14 @@ Experimental results for the USAF target are available in the folder [USAF](http
 Experimental results for Fish gill are available in the folder [fish](https://github.com/ShuheZhang-MUMC/Wavelet-Forward-FPM/tree/main/Demos/fish_samples)
 <br>
 
+## Citation
+
+> @article{https://doi.org/10.1002/lpor.202401183,
+author = {Wu, Hao and Wang, Jiacheng and Pan, Haoyu and Lyu, Jifu and Zhang, Shuhe and Zhou, Jinhua},
+title = {Wavelet-Forward Family Enabling Stitching-Free Full-Field Fourier Ptychographic Microscopy},
+journal = {Laser \& Photonics Reviews},
+volume = {n/a},
+number = {n/a},
+pages = {2401183}
+}
+
