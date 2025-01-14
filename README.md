@@ -22,16 +22,16 @@ The wavelet-forward FPM is built on our previously developed [ELFPIE](https://ww
 We released our MATLAB codes.
 
 ### Requirements
-MATLAB R2023b and newer. 
+>MATLAB R2023b and newer. 
 
 ### Codes
-**USAF resolution testing target**
-Experimental results for the USAF target are available in the folder [USAF](https://github.com/ShuheZhang-MUMC/Wavelet-Forward-FPM/tree/main/Demos/USAF). <be>
-These images were collected when illuminated by white light LEDs, so there is very low coherence. A total of 225 images were collected. 
+>**USAF resolution testing target**
+>Experimental results for the USAF target are available in the folder [USAF](https://github.com/ShuheZhang-MUMC/Wavelet-Forward-FPM/tree/main/Demos/USAF). <be>
+>These images were collected when illuminated by white light LEDs, so there is very low coherence. A total of 225 images were collected. 
 
-**Fish gill sample**
-Experimental results for Fish gill are available in the folder [fish](https://github.com/ShuheZhang-MUMC/Wavelet-Forward-FPM/tree/main/Demos/fish_samples)
-These images were collected by RGB images, sequentially. The LED panel is a circular shape. A total of 93 images were collected.
+>**Fish gill sample**
+>Experimental results for Fish gill are available in the folder [fish](https://github.com/ShuheZhang-MUMC/Wavelet-Forward-FPM/tree/main/Demos/fish_samples)
+>These images were collected by RGB images, sequentially. The LED panel is a circular shape. A total of 93 images were collected.
 <br>
 
 ## Overview
