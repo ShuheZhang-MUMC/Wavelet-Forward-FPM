@@ -18,14 +18,6 @@ The wavelet-forward FPM is built on our previously developed [ELFPIE](https://ww
   <li>2024/09/24: 🔥 Our paper has been accepted by Laser & Photonics Reviews!</li>
 </ul>
 
-## Overview
-We show the stitch-free whole field-of-view reconstruction of pathology slides of rat colon tissue. a1–a3) Raw images for red, green, and blue illuminations. b) Full-FOV reconstruction according to ePIE and WL-FPM. c1,c2) Comparison of local details of ePIE and WL-FPM reconstruction methods (orange box). c3–c5) Comparison of local details between the original image, ePIE, and WL-FPM reconstruction methods (green boxes). d1,d2) The stitched imaging and WL-FPM reconstruction for the zoomed-in region f3 (red box) in b)
-<div align="center">
-<img src="https://github.com/ShuheZhang-MUMC/Wavelet-Forward-FPM/blob/main/resources/samples.png" width = "760" alt="" align=center />
-</div><br>
-
-
-
 ## How to use
 We released our MATLAB codes.
 
@@ -42,8 +34,14 @@ Experimental results for Fish gill are available in the folder [fish](https://gi
 These images were collected by RGB images, sequentially. The LED panel is a circular shape. A total of 93 images were collected.
 <br>
 
-## Citation
+## Overview
+We show the stitch-free whole field-of-view reconstruction of pathology slides of rat colon tissue. a1–a3) Raw images for red, green, and blue illuminations. b) Full-FOV reconstruction according to ePIE and WL-FPM. c1,c2) Comparison of local details of ePIE and WL-FPM reconstruction methods (orange box). c3–c5) Comparison of local details between the original image, ePIE, and WL-FPM reconstruction methods (green boxes). d1,d2) The stitched imaging and WL-FPM reconstruction for the zoomed-in region f3 (red box) in b)
+<div align="center">
+<img src="https://github.com/ShuheZhang-MUMC/Wavelet-Forward-FPM/blob/main/resources/samples.png" width = "760" alt="" align=center />
+</div><br>
 
+
+## Citation
 > @article{WaveletFPM, <br>
 author = {Wu, Hao and Wang, Jiacheng and Pan, Haoyu and Lyu, Jifu and Zhang, Shuhe and Zhou, Jinhua}, <br>
 title = {Wavelet-Forward Family Enabling Stitching-Free Full-Field Fourier Ptychographic Microscopy}, <br>
