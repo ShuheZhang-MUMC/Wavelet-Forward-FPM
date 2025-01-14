@@ -59,6 +59,14 @@ We show the stitch-free whole field-of-view reconstruction of pathology slides o
 <img src="https://github.com/ShuheZhang-MUMC/Wavelet-Forward-FPM/blob/main/resources/samples.png" width = "760" alt="" align=center />
 </div><br>
 
+### Wavelet Bases
+In WL-FPM, diﬀerent wavelet bases and decomposition lay-ers are used to obtain various frequency information. Diﬀerent wavelet bases have distinct mathematical properties, such as size of support, vanishing moments, and symmetry. 
+The following image shows the use of different wavelet bases and decomposition levels and the impacts on reconstructions.
+<div align="center">
+<img src="https://github.com/ShuheZhang-MUMC/Wavelet-Forward-FPM/blob/main/resources/wl-base.jpg" width = "760" alt="" align=center />
+</div><br>
+
+  
 ## Citation
 > @article{WaveletFPM, <br>
 author = {Wu, Hao and Wang, Jiacheng and Pan, Haoyu and Lyu, Jifu and Zhang, Shuhe and Zhou, Jinhua}, <br>
