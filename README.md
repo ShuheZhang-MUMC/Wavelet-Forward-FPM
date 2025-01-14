@@ -8,3 +8,9 @@ This is the official implementation of our paper [WL-FPM](https://onlinelibrary.
 <div align="center">
 <img src="https://github.com/ShuheZhang-MUMC/Wavelet-Forward-FPM/blob/main/resources/pipeline.png" width = "800" alt="" align=center />
 </div><br>
+
+## News
+<ul>
+  <li>2024/12/11: Our paper has been selected to be featured on the **front cover** of the issue. </li>
+  <li>2024/09/24: 🔥 Our paper has been accepted by Laser & Photonics Reviews!</li>
+</ul>
