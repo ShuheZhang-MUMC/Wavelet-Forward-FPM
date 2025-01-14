@@ -26,8 +26,8 @@ The wavelet-forward FPM is built on our previously developed [ELFPIE](https://ww
 </div><br>
 
 ## News
-**2024/12/11:**  :sparkles: Our paper has been selected to be featured on the front cover of the issue. 🎉 Cheers! <br>
-**2024/09/24:** 🔥 Our paper has been accepted by Laser & Photonics Reviews!
+- **2024/12/11:**  :sparkles: Our paper has been selected to be featured on the front cover of the issue. 🎉 Cheers! <br>
+- **2024/09/24:** 🔥 Our paper has been accepted by Laser & Photonics Reviews!
 
 ## How to use
 We released our MATLAB codes.
