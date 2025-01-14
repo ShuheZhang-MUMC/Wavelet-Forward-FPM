@@ -11,6 +11,7 @@ This is the official implementation of our paper [WL-FPM](https://onlinelibrary.
 
 ## News
 <ul>
-  <li>2024/12/11: Our paper has been selected to be featured on the **front cover** of the issue. </li>
+  <li>2024/12/11: Our paper has been selected to be featured on the front cover of the issue. 🎉 Cheers! </li>
   <li>2024/09/24: 🔥 Our paper has been accepted by Laser & Photonics Reviews!</li>
 </ul>
+
