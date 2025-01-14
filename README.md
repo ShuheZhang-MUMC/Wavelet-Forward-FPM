@@ -35,12 +35,12 @@ Experimental results for Fish gill are available in the folder [fish](https://gi
 
 ## Citation
 
-> @article{https://doi.org/10.1002/lpor.202401183,
-author = {Wu, Hao and Wang, Jiacheng and Pan, Haoyu and Lyu, Jifu and Zhang, Shuhe and Zhou, Jinhua},
-title = {Wavelet-Forward Family Enabling Stitching-Free Full-Field Fourier Ptychographic Microscopy},
-journal = {Laser \& Photonics Reviews},
-volume = {n/a},
-number = {n/a},
-pages = {2401183}
-}
+> @article{WaveletFPM, <br>
+author = {Wu, Hao and Wang, Jiacheng and Pan, Haoyu and Lyu, Jifu and Zhang, Shuhe and Zhou, Jinhua}, <br>
+title = {Wavelet-Forward Family Enabling Stitching-Free Full-Field Fourier Ptychographic Microscopy}, <br>
+journal = {Laser \& Photonics Reviews}, <br>
+volume = {n/a}, <br>
+number = {n/a}, <br>
+pages = {2401183} <br>
+} <br>
 
