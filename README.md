@@ -6,17 +6,17 @@
 This is the official implementation of our paper [WL-FPM](https://onlinelibrary.wiley.com/doi/abs/10.1002/lpor.202401183), a novel reconstruction routine for Fourier ptychographic microscopy (FPM). Conventional image-domain optimizations require trade-offs between correction efficacy, data redundancy, and reconstruction accuracy in FPM. Furthermore, the existing linear time-invariant model for actual nonlinear, time-varying optical systems leads to forward model mismatch, complicating the corrections of the vignetting effect. **To overcome these challenges and achieve stitching-free FPM, a family of forward wavelet-transform models (WL-FPM) is proposed.** WL-FPM employs the reversibility of the wavelet transform for high-fidelity reconstruction in the multiscale feature domain. The wavelet loss function is updated in each iteration, and non-convex optimization is solved by complex back diffraction. WL-FPM offers stitching-free, high-resolution, and robust reconstruction under various challenging conditions, including vignetting effects, LED position mismatch, intensity fluctuations, and high-level noise environments. 
 
 ## How does it work?
-The wavelet-forward FPM is built on our previously developed [ELFPIE](https://www.sciencedirect.com/science/article/pii/S0165168423001627), we embed the inverse problem of FPM under the framework of feature extraction/recovering and propose a multiscale wavelet transformation data fidelity. The following picture shows the working pipeline of the Wavelet forward FPM. 
+The wavelet-forward FPM is built on our previously developed [ELFPIE](https://www.sciencedirect.com/science/article/pii/S0165168423001627), we embed the inverse problem of FPM under the framework of feature extraction/recovering and propose a multiscale wavelet transformation data fidelity. The following picture shows the working pipeline of the Wavelet forward FPM, which has 8 steps. 
 
 <ol>
-  <li> Step: Acquire the original images. </li>
-  <li> Step: Generate predicted images. </li>
-  <li> Step: Evaluate the diﬀerence between the predicted and original images. </li>
-  <li> Step: Decompose multidimensional information using wavelet transform. </li>
-  <li> Step: Calculate feature domain errors with a loss function.  </li>
-  <li> Step: Learn parameters and gradient information.  </li>
-  <li> Step: Implement update iterations. </li>
-  <li> Step: Use an optimizer to accelerate the non-convex optimization process. </li> 
+  <li> Acquire the original images. </li>
+  <li> Generate predicted images. </li>
+  <li> Evaluate the diﬀerence between the predicted and original images. </li>
+  <li> Decompose multidimensional information using wavelet transform. </li>
+  <li> Calculate feature domain errors with a loss function.  </li>
+  <li> Learn parameters and gradient information.  </li>
+  <li> Implement update iterations. </li>
+  <li> Use an optimizer to accelerate the non-convex optimization process. </li> 
 </ol>
 
 
